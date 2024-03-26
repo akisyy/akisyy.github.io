@@ -101,6 +101,6 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repository: https://github.com/akisyy/akisy.github.io.git
+  type: git
+  repo: https://github.com/akisyy/akisy.github.io.git
   branch: main
