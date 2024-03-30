@@ -13,6 +13,7 @@ date: 2024-03-26 13:28:44
 - 掌握 Java 知识(如集合类、异常处理):熟练运用 Lambda、Hutool、 Easy Excel编程，使用 JUnit 编写单元 测试并使用 Jacoco 生成单测报告。
 - 掌握 SSM + Spring Boot 开发框架:能够使用 MyBatis Plus + EasyCode 自动生成基础 CRUD代码。
 - 熟悉 MySQL 数据库及库表设计:能够定位慢查询，通过创建索引、Explain 分析等方式优化性能。
+- 熟悉并发编程：能够使用 CompletableFuture 等JC 类、自定义线程池实现并发和操作异步化。
 - 熟悉 Redis:实践过基于 Redis 的分布式缓存、分布式锁、基于 Redisson 的分布式限流。
 - 熟悉 RabbitMQ 消息队列:有过手动消息确认、消息持久化、交换机队列定义、消息生产消费的实践。 
 - 命令和工具:熟练使用 Git、IDEA、Linux 基本命令、Maven、Postman、ChatGPT、Swagger 接口文档等工 具提高开发协作效率，遵守企业开发规范与代码提交规范。
