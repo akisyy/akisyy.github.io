@@ -1,14 +1,8 @@
 ---
-title: 简历  (没有照片是因为对自己的脸感到自卑)
+title: 关于我
 date: 2024-03-26 13:28:44
 ---
-##### 基本资料
-- 姓名：李昊岚&nbsp;&nbsp; &nbsp; &nbsp;性别： 男
-- 学历：本科&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;电话：19156685762
-- 邮箱：akisy@qq.com  
-
-##### 教育背景
-- 宿州学院 - 网络工程（本科） &nbsp; &nbsp; &nbsp; 2020.9-2024.7
+感觉全世界就我找不到工作。
 ##### 技能
 - 掌握 Java 知识(如集合类、异常处理):熟练运用 Lambda、Hutool、 Easy Excel编程，使用 JUnit 编写单元 测试并使用 Jacoco 生成单测报告。
 - 掌握 SSM + Spring Boot 开发框架:能够使用 MyBatis Plus + EasyCode 自动生成基础 CRUD代码。
@@ -19,7 +13,6 @@ date: 2024-03-26 13:28:44
 - 命令和工具:熟练使用 Git、IDEA、Linux 基本命令、Maven、Postman、ChatGPT、Swagger 接口文档等工 具提高开发协作效率，遵守企业开发规范与代码提交规范。
 - 前端:熟悉HTML、CSS、JS基本语法;了解Vue框架。
 - 其他:大学英语四级。
-#### 项目
 ###### 个人博客项目 
 - 基于***Spring Boot***实现的前后端分离博客系统，整个项目使用多模块设计,前台模块和后台-管理模块分别为独立的***Spring Boot***工程,二者共享一个公共模块。
 - 使用***Spring Security***实现了基于***JWT***的无状态认证机制,可以灵活进行认证和授权。 
