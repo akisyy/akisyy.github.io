@@ -2,6 +2,7 @@
 title: Teamspeak使用教程
 date: 2024-04-24 17:06:30
 tags: 技术
+cover: /assets/ring.webp
 ---
 ## 啥是Teamspeak？
 TeamSpeak是一款语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能。
