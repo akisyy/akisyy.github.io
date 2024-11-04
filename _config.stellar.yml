@@ -1,2 +1,8 @@
 logo:
-  subtitle: '😇 | 🤪 ' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
+  subtitle: '😇 | 希望开心'
+
+site_tree:
+  home:
+    leftbar: welcome, recent
+    rightbar: timeline
+    
