@@ -1,7 +1,7 @@
 welcome:
   layout: markdown
   title: WELCOME
-  content: 这是我在互联网上的一片孤岛
+  content: "这是我在互联网上的一片孤岛，\n创建于2024年3月24日。"
 
 timeline:
   layout: timeline
